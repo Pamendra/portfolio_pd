@@ -60020,7 +60020,7 @@ this.cH()
 this.q1()}}
 A.Al.prototype={
 R(a){var s=this,r=null,q=A.cE(a,r,t.w).w.a.a>800?100:20,p=A.c([B.dK,B.fo],t.W),o=t.p
-return A.du(r,A.dg(A.c([B.M5,B.v4,A.aa9(B.vw,A.c([s.pU(B.A5,"Email","mailto:pamendrasinghdhurwe@gmail.com"),s.pU(B.A2,"LinkedIn","https://www.linkedin.com/in/Pamendra"),s.pU(B.A4,"GitHub","https://github.com/Pamendra"),s.pU(B.A6,"Phone","tel:+911234567890")],o),20,40)],o),B.X,B.O),B.w,r,r,new A.cj(r,r,r,r,r,new A.fC(B.dj,B.di,B.aM,p,r,r),B.an),r,r,r,new A.bi(q,80,q,80),r,r,1/0)},
+return A.du(r,A.dg(A.c([B.M5,B.v4,A.aa9(B.vw,A.c([s.pU(B.A5,"Email","mailto:pamendrasinghdhurwe@gmail.com"),s.pU(B.A2,"LinkedIn","https://www.linkedin.com/in/Pamendra"),s.pU(B.A4,"GitHub","https://github.com/Pamendra"),s.pU(B.A6,"Phone","tel:+917974724742")],o),20,40)],o),B.X,B.O),B.w,r,r,new A.cj(r,r,r,r,r,new A.fC(B.dj,B.di,B.aM,p,r,r),B.an),r,r,r,new A.bi(q,80,q,80),r,r,1/0)},
 pU(a,b,c){var s=null
 return A.amq(!1,A.kG(50),!0,A.dg(A.c([A.du(s,new A.Ba(a,36,B.i,s),B.w,s,s,new A.cj(A.bg(B.c.af(25.5),B.i.H()>>>16&255,B.i.H()>>>8&255,B.i.H()&255),s,A.abV(A.bg(51,B.i.H()>>>16&255,B.i.H()>>>8&255,B.i.H()&255)),s,s,s,B.b5),s,s,s,B.jU,s,s,s),B.HO,A.fd(b,B.KM,s)],t.p),B.X,B.pe),s,!0,s,s,s,s,s,s,new A.Ox(c),s,s,s)}}
 A.Ox.prototype={
